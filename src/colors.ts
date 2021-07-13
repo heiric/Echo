@@ -1,0 +1,23 @@
+export let colors = {
+    blank: 0x36393F,
+    black: 0x010101,
+    white: 0xFEFEFE,
+    grey: 0xDCDCDC,
+    red: 0xFF5151,
+    blue: 0x505BFE,
+    green: 0x59FFA7,
+    orange: 0xFEA42E,
+    gold: 0xD5CB37,
+    pink: 0xFE6BFE,
+    purple: 0xA321E3,
+    magenta: 0xF32694,
+    teal: 0x01EDE5,
+    aqua: 0x2BF3B0,
+    darkGrey: 0xB4B5B4,
+    darkRed: 0xCB0101,
+    darkBlue: 0x003191,
+    darkGreen: 0x00910A,
+    darkOrange: 0xE18001,
+    darkPurple: 0x8100B0,
+    darkAqua: 0x00B08D
+}

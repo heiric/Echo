@@ -1,0 +1,23 @@
+{
+  "name": "echo",
+  "version": "1.0.1",
+  "description": "general use discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heiric/Echo.git"
+  },
+  "author": "eric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heiric/Echo/issues"
+  },
+  "homepage": "https://github.com/heiric/Echo#readme",
+  "dependencies": {
+    "@types/node": "^16.3.1",
+    "eris": "^0.15.1"
+  }
+}
