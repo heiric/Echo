@@ -7,7 +7,7 @@ export default class evaluate implements Cmd {
     
     private readonly _command = "eval";
 
-    onHelp(): string {
+    onDesc(): string {
         return "Evaluate JavaScript code";
     }
 
